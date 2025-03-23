@@ -1,0 +1,5 @@
+## Command to get Google Cloud CLI
+sudo apt-get google-cloud-cli
+
+## Tool installation to create stress on local VM
+sudo apt install stress -y
