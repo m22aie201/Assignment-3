@@ -3,3 +3,4 @@ sudo apt-get google-cloud-cli
 
 ## Tool installation to create stress on local VM
 sudo apt install stress -y
+stress --cpu 2 --timeout 60s
